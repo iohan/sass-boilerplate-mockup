@@ -1,8 +1,12 @@
 # Sass Boilerplate Mockup
 
-## Create mockups fast using this Sass Boilerplate
+#### Create mockups fast using this Sass Boilerplate
+
+Before you start using heavy frameworks and dynamic content, use this boilerplate to create your template in no-time.
 
 #### Sass watch to create style.css
+
+In the terminal, run the line below to process your _.scss-files into _.css-files. It will watch for any changes process it immediately.
 
     sass --watch sass/main.scss css/style.css
 
