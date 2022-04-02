@@ -14,4 +14,4 @@ Google Fonts
 
 Link to fonts in html-files
 
-    Add font name to $base-font-family in **sass/_variables.scss**
+    Add font name to $base-font-family in __sass/_variables.scss__
