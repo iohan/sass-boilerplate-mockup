@@ -12,4 +12,6 @@ Font Awesome
 
 Google Fonts
 
-    font-family: 'Raleway', sans-serif;
+Link to fonts in html-files
+
+    Add font name to $base-font-family in **sass/_variables.scss**
