@@ -2,16 +2,16 @@
 
 ## Create mockups fast using this Sass Boilerplate
 
-Sass watch to create style.css
+#### Sass watch to create style.css
 
     sass --watch sass/main.scss css/style.css
 
-Font Awesome
+#### Font Awesome
 
     <i class="fa-solid fa-beer-mug"></i>
 
-Google Fonts
+#### Google Fonts
 
 Link to fonts in html-files
 
-    Add font name to $base-font-family in __sass/_variables.scss__
+    Add font name to $base-font-family in sass/_variables.scss
